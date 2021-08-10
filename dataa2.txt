@@ -1,0 +1,6 @@
+USER
+PASS
+https://mycourses.aalto.fi/mod/quiz/view.php?id=XXXXX
+0.1234,25,5
+3
+2_ans,*m/s^2
